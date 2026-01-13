@@ -1,14 +1,10 @@
 # FounderOverleaf
 
-这是一个在 Overleaf 使用方正字体的最小示例。
+这是一个在 LaTeX 中使用方正字体的最小示例。
 
 ## 字体
 
-为了使用本地方正字体，需要在项目目录下包含以下文件：
-
-- `ctex-fontset-founder.def`：字体定义文件（改自 [ctex/fontset/ctex-fontset-founder.def](https://www.tug.org/texlive/Contents/live/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-founder.def)）
-
-同时，你需要在 `fonts/Founder/` 目录放置以下字体文件：
+在 `fonts/Founder/` 目录放置以下字体文件：
 
 - `FZShuSong-Z01.ttf`：方正书宋
 - `FZFangSong-Z02.ttf`：方正仿宋
