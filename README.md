@@ -25,5 +25,6 @@ aria2c -c -i founder.list
 ## 编译
 
 ```sh
-latexmk -xelatex main.tex && latexmk -c  # 编译并清理辅助文件
+latexmk main.tex  # 编译，产物为 build/main.pdf
+latexmk -c        # 清理辅助文件
 ```
