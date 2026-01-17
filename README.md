@@ -19,7 +19,7 @@
 可以通过如下命令下载：
 
 ```sh
-aria2c -c -i founder.list
+aria2c -c -i fonts.txt
 ```
 
 ## 编译
