@@ -1,6 +1,6 @@
 # FounderOverleaf
 
-这是一个在 LaTeX 中使用方正字体的最小示例。
+在 LaTeX 使用方正字体的最小示例。
 
 ## 字体
 
